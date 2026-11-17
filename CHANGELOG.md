@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.15.1](https://github.com/langchain-ai/langsmith-python/compare/v0.15.0...v0.15.1) (2026-11-17)
+
+
+### Bug Fixes
+
+* **run-rules:** apply all filters together in GET /runs/rules ([4469dc4](https://github.com/langchain-ai/langsmith-python/commit/4469dc4462fb5e59149512a95941a70fd57c183f))
+
+
+### Build System
+
+* **deps:** bump the minor-and-patch group across 1 directory with 4 updates ([72a2cf0](https://github.com/langchain-ai/langsmith-python/commit/72a2cf057c6c883504bcf5bc0fa9181e708d4aac))
+
 ## [0.15.0](https://github.com/langchain-ai/langsmith-python/compare/v0.14.17...v0.15.0) (2026-11-17)
 
 
